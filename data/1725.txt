@@ -1,0 +1,7 @@
+Android Pie 'mất tích' trong danh sách thiết bị chạy Android
+Phiên bản hệ điều hành di động mới nhất Android Pie (Android 9) dù đã được phát hành, nhưng thật số lượng người dùng không nhiều.
+Theo Neowin, báo cáo của Google cung cấp cái nhìn về phiên bản hệ điều hành phổ biến dựa trên số lượng thiết bị hoạt động đã được sử dụng để truy cập vào Google Play Store. Các thiết bị chạy phiên bản ROM tùy chỉnh sẽ không nằm trong danh sách.
+Dưới đây là danh sách liệt kê từ báo cáo của Google:
+Không ngạc nhiên khi Android 8.x Oreo một lần nữa ghi nhận tăng trưởng lớn nhất với mức tăng tổng cộng 6,9%, giúp phiên bản này lên đến 21,5% thị phần người dùng Android sau gần 11 tháng kể từ khi phát hành.
+Trong khi đó, sau một thời gian thay đổi bằng 0%, tổng mức sử dụng Android 7.x đã giảm 2,6% với phần lớn thuộc về phiên bản 7.0. Bên cạnh đó, gần như các phiên bản chính của Android được theo dõi đều ở mức giảm, ngoại trừ Ice Cream Sandwich vẫn giữ nguyên.
+Đáng chú ý, phiên bản mới nhất là Android 9.0 Pie vẫn chưa thể có được thị phần tối thiểu 0,1%, dù rằng trên thị trường đã có nhiều mẫu điện thoại Android trang bị sẵn nền tảng này khi vừa xuất xưởng.

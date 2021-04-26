@@ -1,0 +1,9 @@
+Nga lên ý tưởng biến xe tăng T-72 thành một xe tăng robot
+Các chuyên gia Nga đang tích cực thảo luận về việc tạo ra một xe tăng robot dựa trên các xe tăng được thiết kế của Liên Xô. Với ý tưởng tạo ra một loại xe tăng thay thế cho 'Armata' với chi phí thấp hơn.
+Có thể nói rằng mong muốn là dễ hiểu, nhưng có rất nhiều câu hỏi liên quan đến khả năng hoạt động của một chiếc xe tăng. Để biến một chiếc xe tăng hiện có thành một tổ hợp robot, nó cần hiện đại hóa triệt để.
+Quá trình hiện đại hóa này cần giữ lại tất cả các tính năng cơ bản của T-72, không để ảnh hưởng đến các thông số, khả năng chiến đấu của xe.
+Nhiệm vụ khó khăn, quan trọng nhất cho loại hình hiện đại hóa này là hệ thống kiểm soát xe tăng, khả năng khởi động động cơ từ xa và thay đổi hướng khi di chuyển đồng thời sự phối hợp hoạt động của tất cả các hệ thống.
+Ngoài ra, việc nâng cấp trên bao gồm ngắm mục tiêu từ xa, kiểm soát hệ thống bắn. Bên cạnh đó quan trọng cho một chiếc xe tăng hiện đại hóa là trong chiến đấu phải có sự phối hợp giữa các xe với nhau trong một đơn vị.
+Để giải quyết được những vấn đề trên, xe tăng T-72 phải được trang bị các thiết bị điện tử hiện đại, cho phép giải quyết tất cả các nhiệm vụ được giao cho nó trong một phiên bản không người lái.
+Và đây không chỉ là hệ thống điều hướng quán tính, hệ thống giám sát điện tử ba chiều cho người vận hành mà còn bảo đảm các kênh trao đổi thông tin giữa người điều khiển và phương tiện chiến đấu. Nếu thiếu sự bảo vệ đối với hệ thống liên lạc có thể chiếc xe tăng sẽ trở thành con mồi dễ dàng cho quân địch.
+Nếu tất cả các cải tiến được thực hiện cho xe tăng T-72, thì chúng ta có thể nói rằng nó sẽ là một chiếc xe tăng hoàn toàn khác với hệ thống kiểm soát điều khiển hiện đại, nó sẽ chỉ mang hình ảnh phiên bản gốc của chiếc xe chiến đấu.

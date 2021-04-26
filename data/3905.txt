@@ -1,0 +1,10 @@
+Apple ra mắt Mac Mini 2018: Hiệu suất mạnh hơn 5 lần, giá chỉ từ 799 USD!
+Sau bộ ba iPhone 2018 ra mắt hoành tráng vào cuối tháng 9, Apple mới đây lại tiếp tục chiêu đãi giới công nghệ Mac mini trong sự kiện 30/10.
+Sau 4 năm để người dùng chờ đợi, cuối cùng Apple cũng đã ra mắt phiên bản Mac Mini 2018.
+Đúng như dự đoán từ các chuyên gia, Mac Mini 2018 không có nhiều thay đổi về ngoại hình. Tuy nhiên, nó được nâng cấp mạnh mẽ về cấu hình với tiêu chí hướng đến người dùng chuyên nghiệp.
+Mac mini 2018 được trang bị chip xử lý 4 nhân (Quad-core) Intel thế hệ thứ 8, thay vì chip 2 nhân (Dual-core) Intel Core i5 thế hệ thứ 4 như trước đây. Sản phẩm còn bao gồm phiên bản cao cấp hơn với chip xử lý 6 nhân Intel thế hệ thứ 8.
+Với cấu hình này, Mac Mini 2018 sẽ có tốc độ nhanh hơn gấp 5 lần so với thế hệ tiền nhiệm. Bên cạnh đó, bộ nhớ trong SO-DIMM 64 GB của thiết bị cũng có thể tháo rời. Theo CEO Tim Cook khẳng định, Mac Mini được nâng cấp mạnh mẽ so với phiên bản trước được ra mắt năm 2014.
+Model năm nay được trang bị chip T2, giúp nâng cao khả năng bảo mật, tùy chọn RAM DDR4-2666 MHz (nhanh hơn 4 lần so với DDR3 cũ) 32 GB hoặc 64 GB và bộ nhớ SSD lên đến 2 TB. Thiết bị cũng bao gồm các cổng kết nối HDMI, 4 cổng Thunderbolt 3, 2 cổng USB-A, cổng Ethernet và jack âm thanh 3,5 mm.
+Ngoài ra, Mac Mini lần này cũng có thêm hệ thống tản nhiệt được làm mới với khoang quạt lớn hơn. Thiết kế này giúp máy tản nhiệt tốt hơn và có lượng gió thổi qua máy tăng gấp đôi.
+Theo Apple, thiết bị có thể phục vụ làm phim, chỉnh sửa ảnh chuyên nghiệp với sức mạnh mở rộng từ eGPU qua Thunderbolt 3.
+Phiên bản Mac Mini có cấu hình thấp nhất được trang bị chip Core i3, 3.5 gHz lõi tứ, RAM 8 GB, bộ nhớ SSD 128 GB. Máy được lên kệ từ ngày 7/11/2018 với giá 799 USD. Người dùng cũng có thể mua phiên bản cao cấp nhất với chip i7 6 nhân, 4,2GHz, RAM 64GB và bộ nhớ SSD 2TB.

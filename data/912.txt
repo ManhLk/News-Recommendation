@@ -1,0 +1,17 @@
+Đã có thể tải iOS 12.1 - kích hoạt eSIM, gọi FaceTime nhóm
+OS 12.1 đã chính thức có mặt trên các mẫu iPhone từ 5S trở lên vào ngày 30/10. Phiên bản hệ điều hành này kích hoạt tính năng hỗ trợ eSIM cho các mẫu iPhone 2018.
+Apple đã chính thức phát hành phiên bản iOS 12.1, chủ yếu cải thiện hiệu suất và sửa chữa các lỗi đang tồn tại. Đồng thời iOS 12.1, bổ sung các biểu tượng cảm xúc mới, hỗ trợ FaceTime nhóm, kích hoạt eSIM hay điều chỉnh khả năng xóa phông theo thời gian thực.
+Hỗ trợ tính năng FaceTime nhóm
+Tính năng FaceTime nhóm được Apple giới thiệu lần đầu tại sự kiện WWDC 2018 vào tháng 5. Tuy nhiên, tính năng này mới chính thức xuất hiện trên iOS 12.1.
+FaceTime nhóm cho phép tối đa 32 người tham gia cuộc gọi cùng lúc. Bên cạnh đó, người dùng có thể sử dụng kèm Animoji, Memoji hay các bộ lọc màu trong khi gọi để tăng thêm tính thú vị.
+Đồng thời, FaceTime sẽ được hỗ trợ trên cả iPhone, iPad và Mac. Khi thực hiện cuộc gọi, cửa sổ video sẽ trở nên lớn hơn khi người dùng nói và thu nhỏ lại khi ngừng.
+Điều chỉnh khả năng xóa phông theo thời gian thực
+iOS 12.1 cho phép người dùng có thể điều chỉnh độ sâu trường ảnh trước và sau khi chụp giống như cách làm của Samsung Galaxy Note9. Đồng thời, tính năng này cũng được tích hợp cho camera trước của máy. iOS 12.1 còn hỗ trợ khả năng theo dõi khuôn mặt nhanh hơn với các ứng dụng ARKit của bên thứ 3.
+Kích hoạt eSIM trên các mẫu iPhone 2018
+Giờ đây người dùng iPhone XR, XS và XS Max có thể kích hoạt và sử dụng tính năng eSIM khi cập nhật iOS 12.1.
+Các mẫu iPhone 2018 đều hỗ trợ 2 SIM trong đó chỉ có thị trường Trung Quốc, Hong Kong, Macao có 2 SIM vật lý. Còn lại đều dùng một SIM vật lý và một eSIM.
+eSIM là loại SIM điện tử được hàn vào bảng mạch của thiết bị khi sản xuất, thay thế loại SIM nhựa thông thường. Ngoài ra, eSIM có thể giúp người dùng chuyển đổi sang nhà mạng khác nhau dễ dàng hơn qua ứng dụng.
+Tuy nhiên, hiện tại chỉ có 14 nhà mạng ở 10 quốc gia, cùng 2 nhà cung cấp toàn cầu là GigSky và Truphone hỗ trợ eSIM. Các nhà mạng ở Việt Nam vẫn chưa hỗ trợ chuẩn eSIM
+Biểu tượng cảm xúc mới
+Hơn 70 biểu tượng cảm xúc mới sẽ xuất hiện trên iPhone, iPad khi cập nhật iOS 12.1. Các biểu tượng mới bao gồm nhân vật có mái tóc đỏ, tóc xám, tóc xoăn và hói.
+Ngoài ra, iOS 12.1 cũng cung cấp các biểu tượng mang nét văn hóa đặc trưng của các nước Đông Nam Á như bánh trung thu, phong bì màu đỏ và bùa hộ mệnh... Biểu tượng cảm xúc mới cũng sẽ có sẵn trên Apple Watch và Mac với bản cập nhật phần mềm mới.

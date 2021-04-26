@@ -1,0 +1,9 @@
+Google tổ chức cuộc thi phát triển AI mang lợi ích cho nhân loại
+Google vừa phát động một cuộc thi toàn cầu phát triển những ứng dụng và nghiên cứu trí tuệ nhân tạo (AI) có tác động tích cực đến các lĩnh vực và xã hội nói chung.
+Google vừa phát động một cuộc thi toàn cầu phát triển những ứng dụng và nghiên cứu trí tuệ nhân tạo (AI) có tác động tích cực đến các lĩnh vực và xã hội nói chung.
+Google hiện nay là một trong những tổ chức phát triển phần mềm AI hàng đầu thế giới.
+Cuộc thi có tên gọi là AI Impact Challenge được công bố ngày 30/10 tại sự kiện "AI for Social Good" được tổ chức tại trụ sở Google ở Sunnyvale, California, Mỹ. Điều hành cuộc thi là tổ chức từ thiện Google.org.
+Theo Google, cuộc thi được tổ chức nhằm thu hút các tổ chức phi lợi nhuận, trường đại học và các tổ chức khác không phải là doanh nghiệp của Thung lũng Silicon vào tương lai phát triển của nghiên cứu và ứng dụng AI trong giải quyết các vấn đề của các lĩnh vực như khoa học môi trường, chăm sóc sức khỏe và bảo tồn động vật hoang dã.
+Google sẽ trao giải thưởng lên tới 25 triệu USD cho một số thí sinh để “giúp biến những ý tưởng thành hành động tốt nhất.” Là một phần của cuộc thi, Google sẽ cung cấp tài nguyên đám mây cho các dự án đoạt giải.
+Kết quả cuộc thi sẽ được thông báo tại hội nghị nhà phát triển ứng dụng của Google I/O năm tới.
+Google từng bị chỉ trích dữ dội từ bên ngoài lẫn trong nội bộ công ty do tham gia một dự án có tên gọi Project Maven của quân đội Mỹ. Dự án này có sử dụng AI do Google phát triển được tích hợp vào công cụ tìm kiếm và thuật toán phục vụ hoạt động gián điệp ở Trung Quốc. Trước làn sóng chỉ trích từ dư luận, Google đã buộc phải chấp nhận rút khỏi dự án này./.

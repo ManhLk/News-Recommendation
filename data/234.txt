@@ -1,0 +1,15 @@
+Cách tìm lại điện thoại bị mất cắp đơn giản và nhanh không tưởng
+Nếu một ngày nào đó điện thoại của người dùng bị mất hoặc bị trộm lấy thì chỉ cần vài thao tác nhỏ có thể định vị được vị trí điện thoại ở đâu rất đơn giản.
+Theo Thế giới Di động, việc tìm lại điện thoại bị mất thực ra không phải là chuyện khó nếu người dùng đã cài đặt sẵn định vị cho điện thoại nhưng vẫn phải đảm bảo rằng điện thoại phải bật định vị và có kết nối mạng; máy chạy hệ điều hành Android từ 2.2 trở lên; đã đăng nhập một tài khoản Google. Khi đã có những điều kiện này người dùng hãy thực hiện các bước như sau:
+Kích hoạt định vị cho điện thoại
+Đối với điện thoại Samsung đầu tiên hãy truy cập vào trang web https://findmymobile.samsung.com/. Sau đó hệ thống sẽ yêu cầu người dùng đăng nhập Samsung account đã tạo.
+Người dùng tiến hành đăng nhập tài khoản Samsung sau đó cần kích hoạt tính năng định vị điện thoại bằng cách: Trên điện thoại Android bạn vào Cài đặt ---> An Toàn và Bảo mật (hoặc một số điện thoại là mục Màn hình khóa và Bảo mật).
+Tiếp theo hãy chọn Quản trị viên thiết bị và tích vào ô Quản lý thiết bị Android. Từ đây điện thoại của người dùng luôn bật định vị.
+Định vị, khóa hoặc xóa dữ liệu trên điện thoại bị mất
+Không riêng gì điện thoại Samsung mà với các điện thoại dùng hệ điều hành Android khác người dùng cũng có thể tiến hành theo các bước này.
+Hãy định vị máy từ xa bằng cách truy cập vào trang web Android Device Manager của Google và đăng nhập bằng tài khoản Google đang có trên thiết bị bị mất.
+Sau khi đăng nhập thành công, thông tin điện thoại và vị trí điện thoại sẽ được hiện trên bản đồ với điều kiện là điện thoại bị mất phải còn mở máy và được kết nối dữ liệu di động hoặc Wifi.
+Đổ chuông, khóa máy hoặc xóa dữ liệu trên điện thoại
+Hãy gọi vào điện thoại bị mất. Chức năng đổ chuông sẽ làm cho điện thoại bị mất kêu lên giúp người dùng có thể tìm kiếm nó xung quanh trong phòng hoặc khắp nhà nếu vô tình để quên đâu đó.
+Chức năng khóa được chọn có nghĩa chương trình sẽ bắt buộc người dùng thiết lập mật khẩu mới đồng thời sẽ khóa điện thoại lại với điều kiện chiếc điện thoại đó còn kết nối dữ liệu di động hoặc Wifi. Trường hợp chiếc điện thoại mất đang tắt máy hoặc mất kết nối mạng thì lệnh khóa trên trình duyệt vẫn được giữ cho đến khi nào thiết bị bị mất được bật lên lại hoặc có kết nối mạng.
+Nếu muốn xóa dữ liệu trên điện thoại người dùng hãy vào mục quản lý thiết bị sau đóa xóa tất cả dữ liệu từ xa để tránh kẻ trộm có thể lấy cắp.

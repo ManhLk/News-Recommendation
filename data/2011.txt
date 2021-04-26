@@ -1,0 +1,8 @@
+Ra mắt ứng dụng bảo hiểm LIAN, có Blockchain và Trí tuệ nhân tạo
+Ứng dụng bảo hiểm LIAN được áp dụng các công nghệ mới nhất như Blockchain và Trí tuệ nhân tạo (AI).
+Ngày 30/10, tại TP.HCM, ứng dụng bảo hiểm LIAN đã được ra mắt. Đây là một sản phẩm mới của bà Đỗ Thị Kim Liên, người sở hữu bảo hiểm AAA trước đây.
+Ứng dụng bảo hiểm LIAN được xây dựng với các công nghệ mới như Blockchain để mã hóa thông tin khách hàng nhằm bảo mật, công nghệ AI để chăm sóc khách hàng hay sử dụng Big Data để phân loại khách hàng.
+Ngoài ra với Voice IP-E Learning được tích hợp ứng dụng sẽ hỗ trợ người bán và đại lý thuận lợi hơn trong liên lạc, đồng thời LIAN cũng tích hợp cổng thanh toán điện tử với sự hợp tác với Napas và TrueMoney để giúp người dùng dễ dàng thanh toán dịch vụ hơn.
+Với ứng dụng LIAN này người dùng sẽ mua trực tiếp các gói bảo hiểm mà bên công ty cung cấp như An tâm nghệ sĩ, Trọn gói hộ gia đình hay Cháy nổ nhà, chung cư...
+Phía LIAN công bố việc bồi thường bảo hiểm sẽ được tiến hành ngay sau 30 giây khi khách hàng gửi hồ sơ lên. Toàn bộ các thao tác gửi hồ sơ hay bồi thường đều được thực hiện qua ứng dụng.
+Trả lời về vấn đề ứng dụng thu thập các thông tin người dùng được lưu ở đâu, đại diện LIAN cho biết toàn bộ sẽ được lưu trên Cloud của Google và đều được mã hóa thông qua công nghệ Blockchain. Và phía LIAN cũng hướng tới phát triển ứng dụng này thành siêu ứng dụng trong tương lai.

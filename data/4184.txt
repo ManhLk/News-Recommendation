@@ -1,0 +1,20 @@
+Apple công bố Macbook Air thế hệ mới với màn hình Retina và giá khởi điểm 1.199 USD
+Đúng như dự đoán của nhiều người, trong sự kiện vừa diễn ra cách đây vài giờ, Apple đã công bố laptop Macbook Air mới với nhiều cải tiến đáng kể, trong đó đáng chú ý nhất là màn hình Retina, kích thước máy nhỏ hơn 17% và mỏng hơn 10% so với thế hệ cũ.
+Apple đã thổi một luồng khí mới vào dòng MacBook Air khi vừa giới thiệu tới công chúng một mẫu laptop với nhiều cải tiến đáng kể. Macbook Air vốn được Apple cho ra mắt lần đầu tiên vào năm 2011. Trải qua 8 năm tồn tại, cấu hình và kiểu dáng của dòng Air gần như không có sự thay đổi. Đặc biệt, điểm yếu nhất của Macbook Air chính là độ phân giải màn hình chỉ 1366 x 768 pixel. Apple đã không chịu nâng cấp màn hình cho dòng laptop này trong suốt 8 năm qua, dù dòng Macbook Pro đã có màn hình Retina từ năm 2012. Lý giải cho điều này, Apple nói rằng họ muốn dùng màn hình thường để tăng thời lượng pin cho Macbook Air, ngoài ra nó còn giúp dòng laptop này có mức giá dễ tiếp cận nhất, chỉ 1000 USD.
+Mẫu Macbook Air 2018 mà Apple vừa công bố là một sự nâng cấp hẳn về ngoại hình và cấu hình phần cứng so với các phiên bản tiền nhiệm. Nó đã được trang bị màn hình Retina 13,3 inch (2560 x 1440 pixel) với kích thước các đường viền mỏng hơn 50%. Máy có 2 cổng USB-C, một jack cắm tai nghe 3,5mm. Phiên bản này chỉ nặng 1,2kg, nhẹ hơn một chút so với Macbook Air tiền nhiệm (1,3kg).
+Macbook Air mới được trang bị cảm biến vân tay (Touch ID) để đăng nhập được an toàn. Nó dùng con chip bảo mật T2 tương tự như mẫu Macbook Pro và iMac Pro năm ngoái. Macbook Air mới cũng không có Touch Bar, điều này có thể làm hài lòng một số người khi họ cho rằng Touch Bar là không cần thiết.
+Có thể coi mẫu laptop mới này là một chiếc Macbook Pro nằm trong vỏ một chiếc Macbook Air. Nó dùng bàn phím bướm (bàn phím thế hệ thứ ba) được tinh chỉnh để khắc phục lỗi kẹt phím vốn gây khó chịu cho người dùng Macbook Pro trong 2 năm qua.
+Macbook Air được trang bị chip Intel lõi kép thế hệ thứ 8 với đồ họa tích hợp. Rất tiếc, đây là dòng chip Y – (i5-8210Y) chip tiết kiệm điện năng chứ không phải dòng chip U hiệu suất mạnh mẽ.
+Bộ xử lý của dòng máy mới có thể option lên đến 16GB và SSD có thể nâng lên 1,5TB. Bạn có thể sử dụng một trong hai cổng USB-C/Thunderbolt để cấp nguồn cho màn hình 5K bên ngoài. Phiên bản Macbook Air 2018 cấu hình thấp nhất là chip Core i5 1,6GHz, RAM 8GB, SSD 128GB được bán với giá 1.199 USD. Đây là thiết bị đầu tiên của Apple được làm từ nhôm tái chế 100%.
+Tóm lại, các cải tiến mới của Macbook Air bao gồm:
+- Màn hình Retina có độ phân giải cao gấp 4 lần màn hình cũ
+- Viền màn hình mỏng hơn 50% và được phủ hoàn toàn bằng kính
+- Có Touch ID
+- Bàn phím cánh bướm thế hệ thứ ba
+- 2 cổng USB C Thunderbolt 3
+- Trackpad lớn hơn 20%
+- Chip Core i5 thế hệ 8, RAM có thể nâng lên 16GB, ổ SSD có thể nâng lên 1,5TB nhanh hơn 60% so với ổ thế hệ cũ
+- Pin 12 giờ
+- Kích thước nhỏ hơn 17%, mỏng hơn 10% so với thế hệ cũ
+- Máy nặng 1,2kg
+Khách hàng có thể đặt mua từ ngày 31/10. Đến ngày 7/11 sản phẩm sẽ có mặt trên các kệ hàng tại Mỹ.
